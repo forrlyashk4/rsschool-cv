@@ -1,1 +1,1 @@
-**Hey [&#128075], my name's Nikita Rudometov**
+**Hey :wave:, my name's Nikita Rudometov**
