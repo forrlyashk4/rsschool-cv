@@ -1,4 +1,4 @@
-### :wave: my name's Nikita Rudometov
+### 👋 my name's Nikita Rudometov
 
 - github: @forrlyashk4
 - e-mail: [nikitarudometof@gmail.com](mailto:nikitarudometof@gmail.com)
