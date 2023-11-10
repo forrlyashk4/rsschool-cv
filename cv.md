@@ -1,4 +1,4 @@
-#:wave: my name's Nikita Rudometov
+### :wave: my name's Nikita Rudometov
 
 - github: @forrlyashk4
 - e-mail: [nikitarudometof@gmail.com](mailto:nikitarudometof@gmail.com)
@@ -13,13 +13,13 @@ at RS School.
 basics.
 
 **Code example:**
-> [169. Majority Element](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-interview-150)
+> [169. Majority Element.](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-interview-150)
 > Given an array nums of size n, return the majority element.
 > The majority element is the element that appears more
 > than ⌊n / 2⌋ times. You may assume that the majority element
 > always exists in the array.
 
-`
+```
 var majorityElement = function(nums) {
     const majorityTimes = Math.ceil(nums.length / 2);
     const checked = [];
@@ -36,7 +36,7 @@ var majorityElement = function(nums) {
         }
     }
 };
-`
+```
 
 **My education:**
 - Web Development
